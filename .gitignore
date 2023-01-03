@@ -127,6 +127,9 @@ third_partyApps/
 # mkdocs documentation
 /site
 
+.idea/
+
+
 # mypy
 .mypy_cache/
 .dmypy.json
